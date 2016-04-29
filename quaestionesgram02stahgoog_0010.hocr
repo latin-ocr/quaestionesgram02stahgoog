@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesgram02stahgoog_0010.png"; bbox 0 0 3022 4936; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 165 619 1339 766">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 165 619 1339 766">
+     <span class='ocr_line' id='line_1_1' title="bbox 165 619 1339 766; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 165 619 714 766; x_wconf 73' lang='lat' dir='ltr'><strong>QUAESTIONES</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 771 619 1339 756; x_wconf 72' lang='lat' dir='ltr'><strong>GRAMMATIOAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1354 983 1397 1069">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1351 983 1397 1091">
+     <span class='ocr_line' id='line_1_2' title="bbox 1354 983 1397 1069; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 1354 983 1397 1069; x_wconf 62' lang='lat' dir='ltr'><strong>,z</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 331 1365 1180 1465">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 331 1365 1180 1465">
+     <span class='ocr_line' id='line_1_3' title="bbox 331 1365 1180 1465; baseline 0.005 -4"><span class='ocrx_word' id='word_1_4' title='bbox 331 1365 721 1464; x_wconf 82' lang='lat' dir='ltr'>THUOYDIDEM</span> <span class='ocrx_word' id='word_1_5' title='bbox 753 1367 1180 1465; x_wconf 76' lang='lat' dir='ltr'><strong>PERTINENTES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 259 2100 1253 2157">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 259 2100 1253 2157">
+     <span class='ocr_line' id='line_1_4' title="bbox 259 2100 1253 2157; baseline 0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 259 2100 440 2155; x_wconf 82' lang='lat' dir='ltr'>AUCTAS</span> <span class='ocrx_word' id='word_1_7' title='bbox 468 2101 524 2154; x_wconf 81' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 552 2101 833 2156; x_wconf 79' lang='lat' dir='ltr'>CORRECTAS</span> <span class='ocrx_word' id='word_1_9' title='bbox 861 2103 1051 2156; x_wconf 80' lang='lat' dir='ltr'>ITERUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 1078 2105 1253 2157; x_wconf 87' lang='lat' dir='ltr'><strong>EDIDIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 368 2576 1136 2725">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 368 2576 1136 2725">
+     <span class='ocr_line' id='line_1_5' title="bbox 368 2576 1136 2725; baseline 0.005 -49"><span class='ocrx_word' id='word_1_11' title='bbox 368 2576 927 2695; x_wconf 51' lang='lat' dir='ltr'><strong>&#39;‘IoANNESJMATTHIAs</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 955 2615 1136 2725; x_wconf 61' lang='lat' dir='ltr'><strong>§mn</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1516 4936">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1516 4936">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1516 4936; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1516 4936; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
